@@ -5,6 +5,8 @@
 - 📫 Best way to reach me is thru company's Teams channel 
 - ✨ Helpful links:
   - GitHub setup: https://docs.github.com/en/get-started/quickstart/set-up-git?email_source=welcome
+  - Kubernettes 1 hour crash course for Absolute beginner: https://www.youtube.com/watch?v=s_o8dwzRlu4
+  - Kubernettes 4 hour full course for beginner: https://www.youtube.com/watch?app=desktop&v=X48VuDVv0do
 
 
 <!-- - ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)-->
